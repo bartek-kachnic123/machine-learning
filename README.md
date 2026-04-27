@@ -8,3 +8,4 @@
 
 ### [5. Ensemble](ensemble/075Ensemble_Exercises.ipynb)
 
+### [6. NLP](nlp/106_NLP_Exercises.ipynb)
